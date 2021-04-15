@@ -217,7 +217,6 @@ img{
   right: 0;
   bottom: 0;
   width: 295px;
-  border-radius: .5rem;
   
 }
 
@@ -418,6 +417,7 @@ img{
   .home__img{
     width: 457px;
     bottom: 15%;
+    border-radius: .5rem;
   }
 
   .about__container, .skills__container{
