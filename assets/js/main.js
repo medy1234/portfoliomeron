@@ -57,5 +57,9 @@ sr.reveal('.work__img',{interval: 200});
 sr.reveal('.contact__input',{interval: 200}); 
 
 
+// work click event listenters 
+document.querySelectorAll(".work__img").addEventListener(click, "goToWork")
 
-
+function goToWork(){
+    alert("works")
+}
