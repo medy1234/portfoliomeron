@@ -58,8 +58,9 @@ sr.reveal('.contact__input',{interval: 200});
 
 
 // work click event listenters 
-document.querySelector('#firstproject').addEventListener('click', goToWork)
+// document.querySelector('#firstproject').addEventListener('click', goToWork)
 
-function goToWork(){
-    alert("works")
-}
+// function goToWork(url){
+//    window.location = "https://merontictactoe.netlify.app"
+
+// }
